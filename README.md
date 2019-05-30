@@ -1,2 +1,1 @@
-# androSec
-AndroidSecurity. Internship project for LMPS
+# backup
