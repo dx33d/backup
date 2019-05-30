@@ -1,0 +1,11 @@
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/APICreds2Activity.java:17:	Found 'DU'-anomaly for variable 'pintext' (lines '17'-'26').
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/APICreds2Activity.java:18:	Found 'DU'-anomaly for variable 'vbutton' (lines '18'-'26').
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/AccessControl3Activity.java:24:	Found 'DU'-anomaly for variable 'spedit' (lines '24'-'37').
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/AccessControl3NotesActivity.java:22:	Found 'DU'-anomaly for variable 'abutton' (lines '22'-'30').
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/Hardcode2Activity.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/InputValidation3Activity.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/InsecureDataStorage2Activity.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/NotesProvider.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/NotesProvider.java:115:	Use equals() to compare strings instead of '==' or '!='
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/SQLInjectionActivity.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+/root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/R.java	-	PMDException: Error while parsing /root/Desktop/Dev/decompileJava/cache/diva-beta/sources/jakhar/aseem/diva/R.java
